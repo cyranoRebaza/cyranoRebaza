@@ -1,7 +1,4 @@
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -12,14 +9,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&pause=1000&color=F76F0C&center=true&vCenter=true&width=435&lines=Backend+Developer.+%F0%9F%98%8D" alt="Typing SVG">
 </p>
-
-
-<!--h3 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h3 style="display: inline-block">LEARN AND GROW</h3></summary>
-  </ul>
-</div>
 
 
 
